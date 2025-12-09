@@ -2,6 +2,8 @@
 
 A web application for discovering cocktails by ingredient using The CocktailDB API.
 
+**Live Demo:** https://cocktail-db-browser.vercel.app/
+
 ## Features
 
 - **Search by Ingredient**: Find cocktails containing specific ingredients (e.g., vodka, lemon, mint)
